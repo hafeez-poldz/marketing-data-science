@@ -6,7 +6,7 @@ decorator==4.4.0
 defusedxml==0.6.0
 entrypoints==0.3
 ipykernel==5.1.1
-ipython==7.6.1
+ipython==8.10.0
 ipython-genutils==0.2.0
 ipywidgets==7.5.0
 jedi==0.14.1
@@ -19,8 +19,6 @@ jupyter-core==4.5.0
 kiwisolver==1.1.0
 MarkupSafe==1.1.1
 matplotlib==3.1.1
-mistune==2.0.3
-nbconvert==5.5.0
 nbformat==4.4.0
 notebook==6.4.1
 numpy==1.16.4
